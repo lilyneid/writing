@@ -8,8 +8,8 @@ i see you, uncertain,<br>
 at the end of the hallway,<br>
 out of the corner of my eye.<br> 
 the hairs on the back<br>
-	of my neck rise,
-		flowers towards that rising sun-
+&nbsp;of my neck rise,<br>
+&nbsp;&nbsp;flowers towards that rising sun-<br>
 
 every morning<br>
 i see you clearer.<br> 
@@ -26,4 +26,4 @@ we will become supernova.<br>
 one day we will not be so afraid.<br>
 i can’t bring myself to say what you are.<br>
 but when i do,<br> 
-			there will be light.
+			there will be light.<br>
