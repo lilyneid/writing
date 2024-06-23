@@ -1,5 +1,4 @@
 ---
-layout: angela
 title: "ANGELA"
 permalink: /angela
 ---
