@@ -2,16 +2,16 @@
 title: "ANGELA"
 permalink: /angela
 ---
-There were two of us
-in these old woods, once,
-dancing between the pines,
-‘till you found yourself
-too tired of it all.
+There were two of us<br>
+in these old woods, once,<br>
+dancing between the pines,<br>
+‘till you found yourself<br>
+too tired of it all.<br>
  
-The wind blows. I watch
-you leave. I will 
-welcome the spring myself.
-But come morning I see you,
-at the woods-edge peeking in,
-trying to catch a look
-at the daisies.
+The wind blows. I watch<br>
+you leave. I will <br>
+welcome the spring myself.<br>
+But come morning I see you,<br>
+at the woods-edge peeking in,<br>
+trying to catch a look<br>
+at the daisies.<br>

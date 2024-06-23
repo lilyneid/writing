@@ -1,3 +1,7 @@
+---
+title: Lily's Writing
+---
+
 # A Writing Portfolio
 
 ## Biography
@@ -16,4 +20,4 @@ Welcome to my writing portfolio! My name is Lily Neidhardt (they/them), and here
 - []
 
 ## Critical Making
-- [Critical Making Portfolio](https://lilyneid.github.io/cmportfolio/) As an aside, here is my creative portfolio from my Critical Making class of Spring 2024 at UCF, taught by the wonderful Dr. Anastasia Salter. 
+- [Critical Making Portfolio](https://lilyneid.github.io/cmportfolio/): As an aside, here is my creative portfolio from my Critical Making class of Spring 2024 at UCF, taught by the wonderful Dr. Anastasia Salter. 
