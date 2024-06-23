@@ -8,8 +8,8 @@ i see you, uncertain,<br>
 at the end of the hallway,<br>
 out of the corner of my eye.<br> 
 the hairs on the back<br>
-&nbsp;of my neck rise,<br>
-&nbsp;&nbsp;flowers towards that rising sun-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;of my neck rise,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flowers towards that rising sun-<br>
 
 every morning<br>
 i see you clearer.<br> 
@@ -28,4 +28,4 @@ one day we will not be so afraid.<br>
 
 i can’t bring myself to say what you are.<br>
 but when i do,<br> 
-&nbsp;&nbsp;&nbsp;there will be light.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;there will be light.<br>
