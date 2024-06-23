@@ -91,17 +91,17 @@ Disco Elysium decenters and deconstructs human identity for the sake of creating
 Players are called to understand the world and characters intimately through not only the unfolding story and its many variables but through the unique perspective that each playthrough provides, with no playthrough being exactly the same. Disco Elysium has set a precedent for storytelling and worldbuilding that builds on its own themes through every microcosm of the narrative, feeling less like a story and more like a journey in which the main ideas burrow themselves deep into every corner.
  
 # References
-&nbsp;&nbsp;&nbsp;&nbsp;Arjoranta, J. (2022). How are games interpreted? Hermeneutics for game studies. Game Studies: the international journal of computer game research, 22(3).
-&nbsp;&nbsp;&nbsp;&nbsp;Belmonte, J. (2021). The Hanged Rhizome on the Tree: Arborescence and Multiplicity in Disco Elysium. Baltic Screen Media Review, 9(1) 44-54. https://doi.org/10.2478/bsmr-2021-0005
-&nbsp;&nbsp;&nbsp;&nbsp;Bodi, B. & Thon, J. (2020). Playing stories?: Narrative-dramatic agency in Disco Elysium (2019) and Astroneer (2019). Frontiers of Narrative Studies, 6(2) 157-190. https://doi.org/10.1515/fns-2020-0012
-&nbsp;&nbsp;&nbsp;&nbsp;Ensslin, A. (2014). Literary gaming. MIT Press. https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3339803
-&nbsp;&nbsp;&nbsp;&nbsp;Hayles, N. K. (2008). Electronic literature: New horizons for the literary. University of Notre Dame Press. https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3441028
-&nbsp;&nbsp;&nbsp;&nbsp;Kłosiński, M. (2021). The Object Gives Rise to Thought: Hermeneutics of Objects in Disco Elysium. Baltic Screen Media Review, 9(1) 56-66. https://doi.org/10.2478/bsmr-2021-0006
-&nbsp;&nbsp;&nbsp;&nbsp;Novitz, J. (2021). Disco Elysium as Gothic fiction. Baltic Screen Media Review, 9(1) 32-42. https://doi.org/10.2478/bsmr-2021-0004
-&nbsp;&nbsp;&nbsp;&nbsp;Pressman, J. (2019). “Contexts of Digital Literature Criticism: Feminist, Queer, Materialist.” Hyperrhiz: New Media Cultures, no. 20, 2019. doi:10.20415/hyp/020.ex01
-&nbsp;&nbsp;&nbsp;&nbsp;Rintoul, S. (2005). Gothic Anxieties: Struggling with a Definition. Eighteenth-Century Fiction 17(4), 701-709. https://doi.org/10.1353/ecf.2005.0006
-&nbsp;&nbsp;&nbsp;&nbsp;What Games to Play on PC. (n.d.). Metacritic. Retrieved November 20, 2023, from https://web.archive.org/web/20231120004135/https://www.metacritic.com/browse/game/pc/
-&nbsp;&nbsp;&nbsp;&nbsp;ZA/UM. (v. b8a132b0, 2022) [2019]. Disco Elysium: The Final Cut [Microsoft Windows]. Digital game designed by Robert Kurvitz and Alexander Rostov, published by ZA/UM. 
+&nbsp;&nbsp;&nbsp;&nbsp;Arjoranta, J. (2022). How are games interpreted? Hermeneutics for game studies. Game Studies: the international journal of computer game research, 22(3).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Belmonte, J. (2021). The Hanged Rhizome on the Tree: Arborescence and Multiplicity in Disco Elysium. Baltic Screen Media Review, 9(1) 44-54. https://doi.org/10.2478/bsmr-2021-0005<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Bodi, B. & Thon, J. (2020). Playing stories?: Narrative-dramatic agency in Disco Elysium (2019) and Astroneer (2019). Frontiers of Narrative Studies, 6(2) 157-190. https://doi.org/10.1515/fns-2020-0012<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Ensslin, A. (2014). Literary gaming. MIT Press. https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3339803<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hayles, N. K. (2008). Electronic literature: New horizons for the literary. University of Notre Dame Press. https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3441028<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Kłosiński, M. (2021). The Object Gives Rise to Thought: Hermeneutics of Objects in Disco Elysium. Baltic Screen Media Review, 9(1) 56-66. https://doi.org/10.2478/bsmr-2021-0006<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Novitz, J. (2021). Disco Elysium as Gothic fiction. Baltic Screen Media Review, 9(1) 32-42. https://doi.org/10.2478/bsmr-2021-0004<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Pressman, J. (2019). “Contexts of Digital Literature Criticism: Feminist, Queer, Materialist.” Hyperrhiz: New Media Cultures, no. 20, 2019. doi:10.20415/hyp/020.ex01<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Rintoul, S. (2005). Gothic Anxieties: Struggling with a Definition. Eighteenth-Century Fiction 17(4), 701-709. https://doi.org/10.1353/ecf.2005.0006<br>
+&nbsp;&nbsp;&nbsp;&nbsp;What Games to Play on PC. (n.d.). Metacritic. Retrieved November 20, 2023, from https://web.archive.org/web/20231120004135/https://www.metacritic.com/browse/game/pc/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ZA/UM. (v. b8a132b0, 2022) [2019]. Disco Elysium: The Final Cut [Microsoft Windows]. Digital game designed by Robert Kurvitz and Alexander Rostov, published by ZA/UM.<br>
 
 
 
