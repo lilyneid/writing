@@ -38,13 +38,13 @@ Last night I saw the sun was setting and I whistled<br>
 to you, a dog-sharp sound, right from your door<br>
 and invited you out for drinks and a game of cards.<br>
 
-I think you got me when I first saw those cards
-dealt from your hands like weapons. You’re good
-and you know it, sending cheating men to the door,
-but you always let me stick around. Maybe death
-was necessary, but as your laughter whistled
-‘round the room, I felt my soul stir, maybe glow.
+I think you got me when I first saw those cards<br>
+dealt from your hands like weapons. You’re good<br>
+and you know it, sending cheating men to the door,<br>
+but you always let me stick around. Maybe death<br>
+was necessary, but as your laughter whistled<br>
+‘round the room, I felt my soul stir, maybe glow.<br>
 
-I closed that door behind me, because death
-is nothing but a game of cards. Games are good
-fun, a little bird once whistled. But I want that glow.
+I closed that door behind me, because death<br>
+is nothing but a game of cards. Games are good<br>
+fun, a little bird once whistled. But I want that glow.<br>
