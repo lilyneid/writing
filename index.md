@@ -4,13 +4,13 @@
 Welcome to my writing portfolio! My name is Lily Neidhardt (they/them), and here you'll find various writing projects of mine, both academic and creative. I'm currently a master's student at the University of Central Florida with a bachelor's in Creative Writing. My dream is to work in interactive fiction 
 
 ## Academic Writing
-- [“A dark grey corona”: Disco Elysium and the Deconstruction of Identity](idk): A critical analysis of the video game Disco Elysium and how it handles the subjects of individuality, identity, and unsolidity. 
+- [“A dark grey corona”: Disco Elysium and the Deconstruction of Identity](corona): A critical analysis of the video game Disco Elysium and how it handles the subjects of individuality, identity, and unsolidity. 
 
 ## Poetry
-- [Blackjack Sabbath](idk): A sestina about card gambling, suicidality, and greeting the dawn again.
-- [i refuse to say the words](idk): An aubade about the things inside us we just can't face.
-- [Untitled [taNmw]](idk): A poem that, like memory, slowly chips away.
-- [ANGELA](idk): A poem about old friends and better days.
+- [Blackjack Sabbath](blackjack): A sestina about card gambling, suicidality, and greeting the dawn again.
+- [i refuse to say the words](refuse): An aubade about the things inside us we just can't face.
+- [Untitled [taNmw]](tanmw): A poem that, like memory, slowly chips away.
+- [ANGELA](angela): A poem about old friends and better days.
 
 ## Prose
 - []
